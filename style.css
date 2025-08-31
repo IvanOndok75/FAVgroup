@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sirivennela&display=swap');
+body{
+    background-color: rgb(41, 5, 5);
+    background-image: url("./OIP.webp");
+    background-size: 100%;
+
+}
+h1{
+    font-family: Sirivennela;
+    font-weight: bold;
+    font-size: 70px;
+    padding: 2%;
+    text-align: center;
+    color:rgb(240, 220, 220);
+}
+img{
+    display:flexbox;
+    width: 400px;
+    margin: 2% 14% 2% 10%;
+    border: 2px solid rgb(255, 255, 255);
+}
+#a{
+    background-color: rgba(190, 10, 10, 0.541);
+    display: flex;
+    color:bisque;
+
+
+   
+}
+.info{
+    border: 2px solid white;
+    border-radius: 5%;
+
+}
